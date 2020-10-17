@@ -1,0 +1,5 @@
+2019-07-20 14:35:09 TORM0000 login successfully
+2019-07-20 14:35:24 TORM0000 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-20 14:41:12 TORM0000 login successfully
+2019-07-20 14:41:26 TORM0000 failed to add this event TORM0000in Typeconference
+2019-07-20 14:41:43 TORM0000 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10

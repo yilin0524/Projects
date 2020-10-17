@@ -1,0 +1,19 @@
+2019-07-07 14:38:24 MTLC0000 login successfully
+2019-07-07 14:38:35 MTLC0000 successfully booked in event TORA070719 in conference
+2019-07-07 14:39:13 MTLC0000 successfully swap old event TORA070719 and new event TORM070719
+2019-07-07 14:39:16 MTLC0000 booking schedule:  seminar: TORM070719  
+2019-07-07 15:06:48 MTLC0000 login successfully
+2019-07-07 15:07:01 MTLC0000 successfully booked in event TORA070719 in conference
+2019-07-07 15:07:19 MTLC0000 successfully booked in event TORA070719 in tradeshow
+2019-07-07 15:07:33 MTLC0000 successfully booked in event TORA070719 in seminar
+2019-07-07 15:07:41 MTLC0000 booking schedule:  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:08:04 MTLC0000 failed to swap old event TORA070719 and new event TORA080719
+2019-07-07 15:08:41 MTLC0000 booking schedule:  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:14:13 MTLC0000 login successfully
+2019-07-07 15:14:20 MTLC0000 successfully booked in event TORA070719 in conference
+2019-07-07 15:14:30 MTLC0000 successfully booked in event TORA070719 in tradeshow
+2019-07-07 15:14:46 MTLC0000 successfully booked in event TORA070719 in seminar
+2019-07-07 15:14:52 MTLC0000 booking schedule:  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:15:12 MTLC0000 successfully swap old event TORA070719 and new event TORA080719
+2019-07-07 15:15:41 MTLC0000 failed to swap old event TORA070719 and new event TORA000000
+2019-07-07 15:15:45 MTLC0000 booking schedule:  seminar: TORA070719  tradeshow: TORA070719  conference: TORA080719  

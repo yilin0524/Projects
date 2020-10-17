@@ -1,0 +1,124 @@
+2019-07-03 16:39:12 Server for MTL started
+2019-07-03 16:39:23 Manager: MTLM1234 login.
+2019-07-03 16:39:47 manager MTLM1234 add event MTLM030319 in conference
+2019-07-03 16:42:14 Server for MTL started
+2019-07-03 16:42:32 Manager: MTLM1245 login.
+2019-07-03 16:42:53 manager MTLM1245 add event MTLA030319 in seminar
+2019-07-03 16:44:26 Manager: MTLM1234 login.
+2019-07-03 16:44:50 manager MTLM1234 add event MTLM121219 in conference
+2019-07-03 16:44:56 Manager ID MTLM1234 check event aviability in conference the result isconference - MTLM121219 70,   
+2019-07-05 11:06:48 Server for MTL started
+2019-07-05 11:24:14 Manager: MTLM1234 login.
+2019-07-05 11:24:46 manager MTLM1234 add event MTLM010119 in conference
+2019-07-05 11:25:19 Customer MTLC1234 successfully booked in this event MTLM010119
+2019-07-05 11:27:28 Customer MTLC1234 success to cancel MTLM010119 event.
+2019-07-05 11:27:28 manager MTLM1234 successfully remove event MTLM010119 in conference
+2019-07-05 11:27:48 Customer MTLC1234 booking schedule is  
+2019-07-05 11:34:29 Server for MTL started
+2019-07-05 11:34:57 Manager: MTLM1234 login.
+2019-07-05 11:35:19 manager MTLM1234 add event MTLM020219 in tradeshow
+2019-07-05 11:35:49 Customer MTLC1234 successfully booked in this event MTLM020219
+2019-07-05 11:37:01 Customer MTLC1234 success to cancel MTLM020219 event.
+2019-07-05 11:37:01 manager MTLM1234 successfully remove event MTLM020219 in tradeshow
+2019-07-05 11:37:12 Customer MTLC1234 booking schedule is  
+2019-07-05 11:47:45 Server for MTL started
+2019-07-05 11:48:17 Manager: MTLM1234 login.
+2019-07-05 11:48:40 manager MTLM1234 add event MTLM010119 in conference
+2019-07-05 11:49:06 Customer MTLC1234 successfully booked in this event MTLM010119
+2019-07-05 11:49:55 Customer MTLC1234 booking schedule is  conference: MTLM010119  
+2019-07-05 11:50:15 Customer MTLC1234 success to cancel MTLM010119 event.
+2019-07-05 11:50:15 manager MTLM1234 successfully remove event MTLM010119 in conference
+2019-07-05 11:50:25 Customer MTLC1234 booking schedule is  
+2019-07-05 12:30:01 Server for MTL started
+2019-07-05 12:30:33 Manager: MTLM1234 login.
+2019-07-05 12:30:52 manager MTLM1234 add event MTLM020219 in conference
+2019-07-05 12:31:38 Customer TORC1234 success to cancel MTLM020219 event.
+2019-07-05 12:31:38 manager MTLM1234 successfully remove event MTLM020219 in conference
+2019-07-05 12:33:03 manager MTLM1234 add event MTLM020218 in tradeshow
+2019-07-05 12:33:25 Customer MTLC1234 successfully booked in this event MTLM020218
+2019-07-05 12:33:57 Customer MTLC1234 success to cancel MTLM020218 event.
+2019-07-05 12:33:57 manager MTLM1234 successfully remove event MTLM020218 in tradeshow
+2019-07-05 12:38:41 manager MTLM1234 add event MTLM020217 in seminar
+2019-07-05 12:38:58 Manager ID MTLM1234 check event aviability in MTLC1234 the result isMTLC1234 -   
+2019-07-05 12:40:03 Customer MTLC1234 successfully booked in this event MTLM020217
+2019-07-05 12:40:47 Customer MTLC1234 success to cancel MTLM020217 event.
+2019-07-05 12:40:47 manager MTLM1234 successfully remove event MTLM020217 in seminar
+2019-07-07 14:03:20 Server for MTL started
+2019-07-07 14:05:19 Server for MTL started
+2019-07-07 14:05:36 Manager: MTLM1234 login.
+2019-07-07 14:05:58 manager MTLM1234 add event MTLM070719 in conference
+2019-07-07 14:06:17 Customer MTLC1234 successfully booked in this event MTLM070719
+2019-07-07 14:07:28 Customer MTLC1234 success to cancel MTLM070719 event.
+2019-07-07 14:07:28 Customer TORC1234 success to cancel MTLM070719 event.
+2019-07-07 14:07:28 manager MTLM1234 successfully remove event MTLM070719 in conference
+2019-07-07 14:08:22 manager MTLM1234 add event MTLA070719 in seminar
+2019-07-07 14:10:31 Customer MTLC1234 successfully booked in this event MTLA070719
+2019-07-07 14:10:31 Customer MTLC1234 success to cancel MTLA070719 event.
+2019-07-07 14:10:58 Customer MTLC1234 successfully booked in this event TORA070719
+2019-07-07 14:13:25 Customer MTLC1234 successfully booked in this event MTLA070719
+2019-07-07 14:20:50 Server for MTL started
+2019-07-07 14:21:35 Manager: MTLM1234 login.
+2019-07-07 14:21:52 manager MTLM1234 add event MTLA070719 in tradeshow
+2019-07-07 14:23:35 Customer MTLC1234 successfully booked in this event MTLA070719
+2019-07-07 14:23:35 Customer MTLC1234 success to cancel MTLA070719 event.
+2019-07-07 14:25:52 Customer MTLC1234 successfully booked in this event TORA070719
+2019-07-07 14:27:01 Customer MTLC1234 successfully booked in this event MTLA070719
+2019-07-07 14:27:01 Customer MTLC1234 success to cancel TORA070719 event.
+2019-07-07 14:36:22 Server for MTL started
+2019-07-07 14:38:24 Customer: MTLC0000Login
+2019-07-07 14:38:35 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 14:39:13 Customer MTLC0000 successfully booked in this event TORM070719
+2019-07-07 14:39:13 Customer MTLC0000 success to cancel TORA070719 event.
+2019-07-07 14:39:16 Customer MTLC0000 booking schedule is  seminar: TORM070719  
+2019-07-07 15:01:44 Server for MTL started
+2019-07-07 15:06:48 Customer: MTLC0000Login
+2019-07-07 15:07:01 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:07:19 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:07:33 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:07:41 Customer MTLC0000 booking schedule is  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:08:04 Customer MTLC0000 failed to booked TORA080719. 
+2019-07-07 15:08:41 Customer MTLC0000 booking schedule is  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:12:49 Server for MTL started
+2019-07-07 15:14:13 Customer: MTLC0000Login
+2019-07-07 15:14:20 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:14:30 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:14:46 Customer MTLC0000 successfully booked in this event TORA070719
+2019-07-07 15:14:52 Customer MTLC0000 booking schedule is  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:15:12 Customer MTLC0000 successfully booked in this event TORA080719
+2019-07-07 15:15:12 Customer MTLC0000 success to cancel TORA070719 event.
+2019-07-07 15:15:41 Customer MTLC0000 failed to booked TORA000000. 
+2019-07-07 15:15:45 Customer MTLC0000 booking schedule is  seminar: TORA070719  tradeshow: TORA070719  conference: TORA080719  
+2019-07-08 00:20:41 Server for MTL started
+2019-07-08 00:22:45 Server for MTL started
+2019-07-08 00:23:46 Manager: MTLM3333 login.
+2019-07-08 00:23:46 manager TORM2222 add event TORA080819 in seminar
+2019-07-08 00:23:46 manager MTLM3333 add event MTLA080819 in tradeshow
+2019-07-08 00:23:46 manager TORM1111 add event TORA080819 in conference
+2019-07-08 00:51:35 Server for MTL started
+2019-07-08 00:51:48 Manager: MTLM3333 login.
+2019-07-08 00:51:48 Customer: MTLC6666Login
+2019-07-08 00:57:07 Server for MTL started
+2019-07-08 00:57:20 Manager: MTLM3333 login.
+2019-07-08 00:57:21 Customer: MTLC6666Login
+2019-07-08 01:01:22 Server for MTL started
+2019-07-08 01:13:24 Server for MTL started
+2019-07-08 01:13:38 Manager: MTLM3333 login.
+2019-07-08 01:16:55 Server for MTL started
+2019-07-08 01:17:10 Manager: MTLM3333 login.
+2019-07-08 01:17:10 manager TORM1111 add event TORA080819 in conference
+2019-07-08 01:17:10 manager TORM2222 add event TORA080819 in seminar
+2019-07-08 01:17:10 manager MTLM3333 add event MTLA080819 in tradeshow
+2019-07-08 01:21:48 Server for MTL started
+2019-07-08 01:22:06 Manager: MTLM3333 login.
+2019-07-08 01:23:08 Server for MTL started
+2019-07-08 01:23:19 Manager: MTLM3333 login.
+2019-07-08 01:31:16 Server for MTL started
+2019-07-08 01:38:27 Server for MTL started
+2019-07-08 01:41:19 Server for MTL started
+2019-07-08 01:43:53 Server for MTL started
+2019-07-08 01:46:00 Server for MTL started
+2019-07-08 01:53:21 Server for MTL started
+2019-07-08 02:12:14 Server for MTL started
+2019-07-08 02:13:11 Server for MTL started
+2019-07-08 02:21:44 Server for MTL started
+2019-07-08 12:17:53 Server for MTL started

@@ -1,0 +1,14 @@
+2019-07-05 11:25:52 TORM1234 login successfully
+2019-07-05 11:26:41 Manager: TORM1234 successfully let Customer: TORC1234 to booked in event MTLM010119 in conference
+2019-07-05 11:28:10 Manager: TORM1234 got customer TORC1234 booking schedule:  conference: MTLM010119  
+2019-07-05 11:36:03 TORM1234 login successfully
+2019-07-05 11:36:31 Manager: TORM1234 successfully let Customer: TORC1234 to booked in event MTLM020219 in tradeshow
+2019-07-05 11:37:25 Manager: TORM1234 got customer TORC1234 booking schedule:  tradeshow: MTLM020219  
+2019-07-05 11:51:06 TORM1234 login successfully
+2019-07-05 11:51:14 Manager: TORM1234 got customer TORC1234 booking schedule:  conference: MTLM010119  
+2019-07-07 14:06:30 TORM1234 login successfully
+2019-07-07 14:06:56 Manager: TORM1234 successfully let Customer: TORC1234 to booked in event MTLM070719 in conference
+2019-07-07 14:07:40 Manager: TORM1234 got customer TORC1234 booking schedule:  
+2019-07-07 14:08:02 TORM1234 successfully add event. Event information: Type: tradeshow EventID: TORA070719 Capacity: 70
+2019-07-07 14:22:26 TORM1234 login successfully
+2019-07-07 14:22:42 TORM1234 successfully add event. Event information: Type: seminar EventID: TORA070719 Capacity: 70

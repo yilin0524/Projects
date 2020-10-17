@@ -1,0 +1,14 @@
+2019-07-08 00:23:46 MTLM3333 login successfully
+2019-07-08 00:23:46 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 00:51:48 MTLM3333 login successfully
+2019-07-08 00:51:48 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 00:57:20 MTLM3333 login successfully
+2019-07-08 00:57:21 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 01:13:38 MTLM3333 login successfully
+2019-07-08 01:13:38 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 01:17:10 MTLM3333 login successfully
+2019-07-08 01:17:10 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 01:22:06 MTLM3333 login successfully
+2019-07-08 01:22:06 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10
+2019-07-08 01:23:19 MTLM3333 login successfully
+2019-07-08 01:23:19 MTLM3333 successfully add event. Event information: Type: tradeshow EventID: MTLA080819 Capacity: 10

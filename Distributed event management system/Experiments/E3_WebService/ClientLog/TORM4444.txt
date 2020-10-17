@@ -1,0 +1,2 @@
+2019-07-20 15:00:40 TORM4444 login successfully
+2019-07-20 15:00:40 TORM4444 successfully add event. Event information: Type: conference EventID: TORE010819 Capacity: 1

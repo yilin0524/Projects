@@ -1,0 +1,2 @@
+2019-07-20 15:00:40 TORM1111 login successfully
+2019-07-20 15:00:40 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2

@@ -1,0 +1,4 @@
+2019-07-20 14:42:42 MTLM0000 login successfully
+2019-07-20 14:42:56 MTLM0000 successfully add event. Event information: Type: conference EventID: MTLA080819 Capacity: 20
+2019-07-20 14:43:27 Manager: MTLM0000 successfuly let customer MTLC0000 to swap old event TORA080819 and new event MTLA080819
+2019-07-20 14:44:12 Manager: MTLM0000 got customer MTLC0000 booking schedule:  conference: MTLA080819  

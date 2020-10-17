@@ -1,0 +1,19 @@
+2019-07-05 11:26:41 Customer: TORC1234 successfully booked in event MTLM010119 by manager :TORM1234 in conference
+2019-07-05 11:28:10 Customer TORC1234 booking schedule:  conference: MTLM010119   got by manager: TORM1234
+2019-07-05 11:36:31 Customer: TORC1234 successfully booked in event MTLM020219 by manager :TORM1234 in tradeshow
+2019-07-05 11:37:25 Customer TORC1234 booking schedule:  tradeshow: MTLM020219   got by manager: TORM1234
+2019-07-05 11:46:49 TORC1234 login successfully
+2019-07-05 11:47:01 TORC1234 booking schedule:  tradeshow: MTLM020219  
+2019-07-05 11:49:20 TORC1234 login successfully
+2019-07-05 11:49:34 TORC1234 successfully booked in event MTLM010119 in conference
+2019-07-05 11:50:37 TORC1234 booking schedule:  conference: MTLM010119  
+2019-07-05 11:51:14 Customer TORC1234 booking schedule:  conference: MTLM010119   got by manager: TORM1234
+2019-07-05 12:31:08 TORC1234 login successfully
+2019-07-05 12:31:21 TORC1234 successfully booked in event MTLM020219 in conference
+2019-07-05 12:31:45 TORC1234 booking schedule:  
+2019-07-05 12:33:43 TORC1234 successfully booked in event MTLM020218 in tradeshow
+2019-07-05 12:34:05 TORC1234 booking schedule:  tradeshow: MTLM020218  
+2019-07-05 12:40:20 TORC1234 successfully booked in event MTLM020217 in seminar
+2019-07-05 12:40:56 TORC1234 booking schedule:  seminar: MTLM020217  tradeshow: MTLM020218  
+2019-07-07 14:06:56 Customer: TORC1234 successfully booked in event MTLM070719 by manager :TORM1234 in conference
+2019-07-07 14:07:40 Customer TORC1234 booking schedule:   got by manager: TORM1234

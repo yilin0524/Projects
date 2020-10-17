@@ -1,0 +1,3 @@
+2019-07-08 12:18:06 TORC0011 login successfully
+2019-07-08 12:18:07 TORC0011 successfully booked in event TORE010819 in seminar
+2019-07-08 12:18:07 TORC0011 successfully swap old event TORE010819 in seminar and new event TORE010819 in tradeshow

@@ -1,0 +1,49 @@
+2019-07-08 00:51:48 TORC5555 login successfully
+2019-07-08 00:51:48 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 00:51:48 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 00:57:21 TORC5555 login successfully
+2019-07-08 00:57:21 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 00:57:21 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 01:01:36 TORC5555 login successfully
+2019-07-08 01:01:36 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:01:36 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 01:31:29 TORC5555 login successfully
+2019-07-08 01:31:29 TORC5555 failed to book in event TORA080819 in conference
+2019-07-08 01:31:30 TORC5555 failed to swap old event TORA080819 and new event TORA080819
+2019-07-08 01:38:42 TORC5555 login successfully
+2019-07-08 01:38:43 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:38:43 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 01:39:46 TORC5555 login successfully
+2019-07-08 01:39:46 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:39:47 TORC5555 failed to swap old event TORA080819 and new event TORA080819
+2019-07-08 01:40:36 TORC5555 login successfully
+2019-07-08 01:40:36 TORC5555 failed to book in event TORA080819 in conference
+2019-07-08 01:40:36 TORC5555 failed to swap old event TORA080819 and new event TORA080819
+2019-07-08 01:40:44 TORC5555 login successfully
+2019-07-08 01:40:44 TORC5555 failed to book in event TORA080819 in conference
+2019-07-08 01:40:44 TORC5555 failed to swap old event TORA080819 and new event TORA080819
+2019-07-08 01:41:32 TORC5555 login successfully
+2019-07-08 01:41:32 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:41:32 TORC5555 failed to swap old event TORA080819 and new event TORA080819
+2019-07-08 01:43:01 TORC5555 login successfully
+2019-07-08 01:43:03 TORC5555 booking schedule:  conference: TORA080819  
+2019-07-08 01:44:05 TORC5555 login successfully
+2019-07-08 01:44:05 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:44:06 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 01:46:12 TORC5555 login successfully
+2019-07-08 01:46:12 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:46:12 TORC5555 successfully swap old event TORA080819 and new event TORA080819
+2019-07-08 01:47:55 TORC5555 login successfully
+2019-07-08 01:47:56 TORC5555 booking schedule:  seminar: TORA080819  
+2019-07-08 01:53:32 TORC5555 login successfully
+2019-07-08 01:53:32 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 01:53:32 TORC5555 failed to swap old event TORA080819 in conference and new event TORA080819 in seminar
+2019-07-08 02:12:28 TORC5555 login successfully
+2019-07-08 02:12:28 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 02:12:29 TORC5555 successfully swap old event TORA080819 in conference and new event TORA080819 in seminar
+2019-07-08 02:13:32 TORC5555 login successfully
+2019-07-08 02:13:32 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 02:13:32 TORC5555 successfully swap old event TORA080819 in conference and new event TORA080819 in seminar
+2019-07-08 02:21:57 TORC5555 login successfully
+2019-07-08 02:21:57 TORC5555 successfully booked in event TORA080819 in conference
+2019-07-08 02:21:57 TORC5555 failed to swap old event TORA080819 in conference and new event TORA080819 in seminar

@@ -1,0 +1,11 @@
+2019-07-07 15:03:37 TORC0000 login successfully
+2019-07-07 15:03:48 TORC0000 successfully booked in event TORA070719 in conference
+2019-07-07 15:04:03 TORC0000 successfully booked in event TORA070719 in tradeshow
+2019-07-07 15:04:18 TORC0000 successfully booked in event TORA070719 in seminar
+2019-07-07 15:04:42 TORC0000 failed to book in event TORA070719 in tradeshow
+2019-07-07 15:05:04 TORC0000 successfully booked in event TORA080719 in conference
+2019-07-07 15:05:12 TORC0000 booking schedule:  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  conference: TORA080719  
+2019-07-07 15:05:40 TORC0000 successfully cancel event TORA080719
+2019-07-07 15:05:43 TORC0000 booking schedule:  seminar: TORA070719  conference: TORA070719  tradeshow: TORA070719  
+2019-07-07 15:06:12 TORC0000 successfully swap old event TORA070719 and new event TORA080719
+2019-07-07 15:06:16 TORC0000 booking schedule:  seminar: TORA070719  tradeshow: TORA070719  conference: TORA080719  

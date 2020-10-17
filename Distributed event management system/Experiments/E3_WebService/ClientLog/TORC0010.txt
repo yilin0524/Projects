@@ -1,0 +1,3 @@
+2019-07-20 15:00:40 TORC0010 login successfully
+2019-07-20 15:00:40 TORC0010 successfully booked in event TORE010819 in tradeshow
+2019-07-20 15:00:41 TORC0010 failed to swap old event TORE010819 in tradeshow and new event TORE010819 in conference

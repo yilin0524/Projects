@@ -1,0 +1,6 @@
+2019-07-08 00:51:48 MTLC6666 login successfully
+2019-07-08 00:51:48 MTLC6666 successfully booked in event TORA080819 in seminar
+2019-07-08 00:51:48 MTLC6666 failed to swap old event TORA080819 and new event MTLA080819
+2019-07-08 00:57:21 MTLC6666 login successfully
+2019-07-08 00:57:21 MTLC6666 successfully booked in event TORA080819 in seminar
+2019-07-08 00:57:21 MTLC6666 failed to swap old event TORA080819 and new event MTLA080819

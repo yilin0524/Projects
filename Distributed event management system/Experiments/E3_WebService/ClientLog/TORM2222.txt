@@ -1,0 +1,2 @@
+2019-07-20 15:00:40 TORM2222 login successfully
+2019-07-20 15:00:40 TORM2222 successfully add event. Event information: Type: seminar EventID: TORA080819 Capacity: 2

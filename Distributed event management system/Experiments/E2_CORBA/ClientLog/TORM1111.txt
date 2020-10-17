@@ -1,0 +1,44 @@
+2019-07-08 00:23:46 TORM1111 login successfully
+2019-07-08 00:23:46 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 00:24:50 TORM1111 login successfully
+2019-07-08 00:24:57 list event aviablity. Detail: conference -  TORA080819 10,  
+2019-07-08 00:51:48 TORM1111 login successfully
+2019-07-08 00:51:48 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 00:57:20 TORM1111 login successfully
+2019-07-08 00:57:21 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:01:36 TORM1111 login successfully
+2019-07-08 01:01:36 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:13:38 TORM1111 login successfully
+2019-07-08 01:13:38 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:17:10 TORM1111 login successfully
+2019-07-08 01:17:10 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:22:06 TORM1111 login successfully
+2019-07-08 01:22:06 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:23:19 TORM1111 login successfully
+2019-07-08 01:23:19 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 10
+2019-07-08 01:31:29 TORM1111 login successfully
+2019-07-08 01:31:29 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 01:38:42 TORM1111 login successfully
+2019-07-08 01:38:42 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 01:39:46 TORM1111 login successfully
+2019-07-08 01:39:46 TORM1111 failed to add this event TORA080819in Typeconference
+2019-07-08 01:40:36 TORM1111 login successfully
+2019-07-08 01:40:36 TORM1111 failed to add this event TORA080819in Typeconference
+2019-07-08 01:40:43 TORM1111 login successfully
+2019-07-08 01:40:43 TORM1111 failed to add this event TORA080819in Typeconference
+2019-07-08 01:41:31 TORM1111 login successfully
+2019-07-08 01:41:31 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 01:44:05 TORM1111 login successfully
+2019-07-08 01:44:05 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 01:46:12 TORM1111 login successfully
+2019-07-08 01:46:12 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 01:53:31 TORM1111 login successfully
+2019-07-08 01:53:31 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 02:12:28 TORM1111 login successfully
+2019-07-08 02:12:28 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 02:13:31 TORM1111 login successfully
+2019-07-08 02:13:31 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 02:21:56 TORM1111 login successfully
+2019-07-08 02:21:56 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2
+2019-07-08 12:18:05 TORM1111 login successfully
+2019-07-08 12:18:05 TORM1111 successfully add event. Event information: Type: conference EventID: TORA080819 Capacity: 2

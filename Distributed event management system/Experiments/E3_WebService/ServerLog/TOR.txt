@@ -1,0 +1,43 @@
+2019-07-20 14:41:03 Server for TOR started
+2019-07-20 14:41:12 Manager: TORM0000 login.
+2019-07-20 14:41:43 manager TORM0000 add event TORA080819 in conference
+2019-07-20 15:00:31 Server for TOR started
+2019-07-20 15:00:40 Manager: TORM1111 login.
+2019-07-20 15:00:40 Manager: TORM2222 login.
+2019-07-20 15:00:40 Manager: TORM4444 login.
+2019-07-20 15:00:40 Manager: TORM3333 login.
+2019-07-20 15:00:40 Manager: TORM5555 login.
+2019-07-20 15:00:40 manager TORM1111 add event TORA080819 in conference
+2019-07-20 15:00:40 manager TORM2222 add event TORA080819 in seminar
+2019-07-20 15:00:40 manager TORM5555 add event TORE010819 in seminar
+2019-07-20 15:00:40 manager TORM5555 add event TORE010819 in seminar
+2019-07-20 15:00:40 manager TORM3333 add event TORE010819 in tradeshow
+2019-07-20 15:00:40 manager TORM4444 add event TORE010819 in conference
+2019-07-20 15:00:40 manager TORM4444 add event TORE010819 in conference
+2019-07-20 15:00:40 Customer: TORC0008Login
+2019-07-20 15:00:40 Customer: TORC0006Login
+2019-07-20 15:00:40 Customer: TORC0007Login
+2019-07-20 15:00:40 Customer TORC0006 successfully booked in this event TORA080819
+2019-07-20 15:00:40 Customer TORC0008 successfully booked in this event TORA080819
+2019-07-20 15:00:40 Customer TORC0007 successfully booked in this event TORA080819
+2019-07-20 15:00:40 Customer TORC0008 failed to booked TORA080819. 
+2019-07-20 15:00:40 Customer TORC0006 successfully booked in this event TORA080819
+2019-07-20 15:00:40 Customer TORC0006 success to cancel TORA080819 event.
+2019-07-20 15:00:40 Customer TORC0007 failed to booked TORA080819. 
+2019-07-20 15:00:40 Customer: TORC0009Login
+2019-07-20 15:00:40 Customer: TORC0010Login
+2019-07-20 15:00:40 Customer TORC0009 successfully booked in this event TORE010819
+2019-07-20 15:00:40 Customer TORC0010 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0009 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0009 success to cancel TORE010819 event.
+2019-07-20 15:00:41 Customer TORC0010 failed to booked TORE010819. 
+2019-07-20 15:00:41 Customer: TORC0012Login
+2019-07-20 15:00:41 Customer: TORC0013Login
+2019-07-20 15:00:41 Customer: TORC0011Login
+2019-07-20 15:00:41 Customer TORC0012 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0013 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0011 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0012 failed to booked TORE010819. 
+2019-07-20 15:00:41 Customer TORC0013 failed to booked TORE010819. 
+2019-07-20 15:00:41 Customer TORC0011 successfully booked in this event TORE010819
+2019-07-20 15:00:41 Customer TORC0011 success to cancel TORE010819 event.

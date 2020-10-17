@@ -1,0 +1,2 @@
+2019-07-03 16:42:32 MTLM1245 login successfully
+2019-07-03 16:42:53 MTLM1245 successfully add event. Event information: Type: seminar EventID: MTLA030319 Capacity: 70

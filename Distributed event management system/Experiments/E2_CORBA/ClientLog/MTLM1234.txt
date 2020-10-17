@@ -1,0 +1,44 @@
+2019-07-03 16:39:23 MTLM1234 login successfully
+2019-07-03 16:39:47 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM030319 Capacity: 50
+2019-07-03 16:44:26 MTLM1234 login successfully
+2019-07-03 16:44:50 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM121219 Capacity: 70
+2019-07-03 16:44:56 list event aviablity. Detail: conference - MTLM121219 70,   
+2019-07-05 11:24:14 MTLM1234 login successfully
+2019-07-05 11:24:46 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM010119 Capacity: 40
+2019-07-05 11:25:19 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM010119 in conference
+2019-07-05 11:27:28 MTLM1234 remove MTLM010119 successfully. Remove information: Event: MTLM010119 in: conference
+2019-07-05 11:27:48 Manager: MTLM1234 got customer MTLC1234 booking schedule:  
+2019-07-05 11:34:57 MTLM1234 login successfully
+2019-07-05 11:35:19 MTLM1234 successfully add event. Event information: Type: tradeshow EventID: MTLM020219 Capacity: 40
+2019-07-05 11:35:49 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM020219 in tradeshow
+2019-07-05 11:37:01 MTLM1234 remove MTLM020219 successfully. Remove information: Event: MTLM020219 in: tradeshow
+2019-07-05 11:37:12 Manager: MTLM1234 got customer MTLC1234 booking schedule:  
+2019-07-05 11:48:17 MTLM1234 login successfully
+2019-07-05 11:48:40 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM010119 Capacity: 20
+2019-07-05 11:49:06 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM010119 in conference
+2019-07-05 11:49:55 Manager: MTLM1234 got customer MTLC1234 booking schedule:  conference: MTLM010119  
+2019-07-05 11:50:15 MTLM1234 remove MTLM010119 successfully. Remove information: Event: MTLM010119 in: conference
+2019-07-05 11:50:25 Manager: MTLM1234 got customer MTLC1234 booking schedule:  
+2019-07-05 12:30:33 MTLM1234 login successfully
+2019-07-05 12:30:52 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM020219 Capacity: 40
+2019-07-05 12:31:38 MTLM1234 remove MTLM020219 successfully. Remove information: Event: MTLM020219 in: conference
+2019-07-05 12:33:03 MTLM1234 successfully add event. Event information: Type: tradeshow EventID: MTLM020218 Capacity: 50
+2019-07-05 12:33:25 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM020218 in tradeshow
+2019-07-05 12:33:57 MTLM1234 remove MTLM020218 successfully. Remove information: Event: MTLM020218 in: tradeshow
+2019-07-05 12:38:41 MTLM1234 successfully add event. Event information: Type: seminar EventID: MTLM020217 Capacity: 50
+2019-07-05 12:38:58 list event aviablity. Detail: MTLC1234 -   
+2019-07-05 12:40:03 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM020217 in seminar
+2019-07-05 12:40:47 MTLM1234 remove MTLM020217 successfully. Remove information: Event: MTLM020217 in: seminar
+2019-07-07 14:05:36 MTLM1234 login successfully
+2019-07-07 14:05:58 MTLM1234 successfully add event. Event information: Type: conference EventID: MTLM070719 Capacity: 60
+2019-07-07 14:06:17 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event MTLM070719 in conference
+2019-07-07 14:07:28 MTLM1234 remove MTLM070719 successfully. Remove information: Event: MTLM070719 in: conference
+2019-07-07 14:08:22 MTLM1234 successfully add event. Event information: Type: seminar EventID: MTLA070719 Capacity: 90
+2019-07-07 14:10:31 Manager: MTLM1234 fail to let MTLC1234 to swap old event TORA070719 and new event MTLA070719
+2019-07-07 14:10:58 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event TORA070719 in tradeshow
+2019-07-07 14:21:35 MTLM1234 login successfully
+2019-07-07 14:21:52 MTLM1234 successfully add event. Event information: Type: tradeshow EventID: MTLA070719 Capacity: 70
+2019-07-07 14:23:35 Manager: MTLM1234 fail to let MTLC1234 to swap old event TORA070719 and new event MTLA070719
+2019-07-07 14:24:11 MTLM1234 failed to add this event MTLC1234in Typeseminar
+2019-07-07 14:25:52 Manager: MTLM1234 successfully let Customer: MTLC1234 to booked in event TORA070719 in seminar
+2019-07-07 14:27:01 Manager: MTLM1234 successfuly let customer MTLC1234 to swap old event TORA070719 and new event MTLA070719

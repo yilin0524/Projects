@@ -1,0 +1,10 @@
+2019-07-20 14:40:56 Server for MTL started
+2019-07-20 14:41:53 Customer: MTLC0000Login
+2019-07-20 14:42:03 Customer MTLC0000 successfully booked in this event TORA080819
+2019-07-20 14:42:17 Customer MTLC0000 booking schedule is  conference: TORA080819  
+2019-07-20 14:42:42 Manager: MTLM0000 login.
+2019-07-20 14:42:56 manager MTLM0000 add event MTLA080819 in conference
+2019-07-20 14:43:27 Customer MTLC0000 successfully booked in this event MTLA080819
+2019-07-20 14:43:27 Customer MTLC0000 success to cancel TORA080819 event.
+2019-07-20 14:44:12 Customer MTLC0000 booking schedule is  conference: MTLA080819  
+2019-07-20 15:00:18 Server for MTL started

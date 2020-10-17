@@ -1,0 +1,15 @@
+2019-07-05 11:25:19 Customer: MTLC1234 successfully booked in event MTLM010119 by manager :MTLM1234 in conference
+2019-07-05 11:27:48 Customer MTLC1234 booking schedule:   got by manager: MTLM1234
+2019-07-05 11:35:49 Customer: MTLC1234 successfully booked in event MTLM020219 by manager :MTLM1234 in tradeshow
+2019-07-05 11:37:12 Customer MTLC1234 booking schedule:   got by manager: MTLM1234
+2019-07-05 11:49:06 Customer: MTLC1234 successfully booked in event MTLM010119 by manager :MTLM1234 in conference
+2019-07-05 11:49:55 Customer MTLC1234 booking schedule:  conference: MTLM010119   got by manager: MTLM1234
+2019-07-05 11:50:25 Customer MTLC1234 booking schedule:   got by manager: MTLM1234
+2019-07-05 12:33:25 Customer: MTLC1234 successfully booked in event MTLM020218 by manager :MTLM1234 in tradeshow
+2019-07-05 12:40:03 Customer: MTLC1234 successfully booked in event MTLM020217 by manager :MTLM1234 in seminar
+2019-07-07 14:06:17 Customer: MTLC1234 successfully booked in event MTLM070719 by manager :MTLM1234 in conference
+2019-07-07 14:10:31 Customer MTLC1234 failed to swap old event TORA070719 and new event MTLA070719
+2019-07-07 14:10:58 Customer: MTLC1234 successfully booked in event TORA070719 by manager :MTLM1234 in tradeshow
+2019-07-07 14:23:35 Customer MTLC1234 failed to swap old event TORA070719 and new event MTLA070719
+2019-07-07 14:25:52 Customer: MTLC1234 successfully booked in event TORA070719 by manager :MTLM1234 in seminar
+2019-07-07 14:27:01 Customer MTLC1234 successfully swap old event TORA070719 and new event MTLA070719 by manager: MTLM1234

@@ -1,0 +1,6 @@
+2019-07-20 14:35:36 MTLC0000 login successfully
+2019-07-20 14:41:53 MTLC0000 login successfully
+2019-07-20 14:42:03 MTLC0000 successfully booked in event TORA080819 in conference
+2019-07-20 14:42:17 MTLC0000 booking schedule:  conference: TORA080819  
+2019-07-20 14:43:27 Customer MTLC0000 successfully swap old event TORA080819 and new event MTLA080819 by manager: MTLM0000
+2019-07-20 14:44:12 Customer MTLC0000 booking schedule:  conference: MTLA080819   got by manager: MTLM0000
